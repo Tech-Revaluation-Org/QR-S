@@ -32,7 +32,7 @@ pip install qrcode[pil] PyQt6 pillow
 Run the script:
 
 ```bash
-python qrcode_generator.py
+python main.py
 ```
 
 ## **How It Works**
